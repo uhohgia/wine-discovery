@@ -1,0 +1,414 @@
+[
+  {
+    "id": "moet-imperial-brut",
+    "name": "Impérial Brut",
+    "producer": "Moët & Chandon",
+    "vintage": null,
+    "type": "sparkling",
+    "price": 55,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "apple-pear",
+      "citrus"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [
+      "toast"
+    ],
+    "pairings": [
+      "Salty snacks",
+      "Fried chicken",
+      "Oysters"
+    ],
+    "occasions": [
+      "gift",
+      "date-night",
+      "dinner-party"
+    ],
+    "serve_tip": "Serve it well chilled, about 46 to 50°F, as the back label says. Open it gently: hold the cork and twist the bottle.",
+    "talking_point": "Moët has been making Champagne in Épernay, France, since 1743. “Brut” on the label just means dry, not sweet.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": "/bottles/moet-imperial-brut.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "decoy-brut-cuvee",
+    "name": "Brut Cuvée",
+    "producer": "Decoy",
+    "vintage": null,
+    "type": "sparkling",
+    "price": 25,
+    "body": "light",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "apple-pear",
+      "citrus"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [
+      "toast"
+    ],
+    "pairings": [
+      "Salty snacks",
+      "Fried chicken",
+      "Cheese and crackers"
+    ],
+    "occasions": [
+      "date-night",
+      "gift",
+      "weeknight"
+    ],
+    "serve_tip": "Chill it for a few hours and open it gently. Hold the cork and twist the bottle.",
+    "talking_point": "It’s made the same way as Champagne (the label says “méthode champenoise”), but it comes from California.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": "/bottles/decoy-brut-cuvee.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "canvasback-cabernet",
+    "name": "Red Mountain Cabernet Sauvignon",
+    "producer": "Canvasback",
+    "vintage": 2022,
+    "type": "red",
+    "price": 35,
+    "body": "full",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "high",
+    "fruit_character": "jammy",
+    "fruit_notes": [
+      "dark-fruit",
+      "blue-fruit"
+    ],
+    "flower_notes": [
+      "purple-flowers"
+    ],
+    "extras": [
+      "vanilla",
+      "baking-spice"
+    ],
+    "pairings": [
+      "Steak",
+      "BBQ ribs",
+      "Aged cheddar"
+    ],
+    "occasions": [
+      "dinner-party",
+      "gift"
+    ],
+    "serve_tip": "Pour it a little before dinner so it can open up, and serve it with something rich.",
+    "talking_point": "Red Mountain is a tiny spot in eastern Washington State known for big, bold Cabernet. The duck on the label is the canvasback duck the wine is named for.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": "/bottles/canvasback-cabernet.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "goldeneye-pinot-noir",
+    "name": "Anderson Valley Pinot Noir",
+    "producer": "Goldeneye",
+    "vintage": 2022,
+    "type": "red",
+    "price": 55,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "red-berry",
+      "dark-fruit"
+    ],
+    "flower_notes": [
+      "roses"
+    ],
+    "extras": [
+      "baking-spice",
+      "earthy"
+    ],
+    "pairings": [
+      "Roast chicken",
+      "Salmon",
+      "Mushroom pasta"
+    ],
+    "occasions": [
+      "dinner-party",
+      "date-night",
+      "gift"
+    ],
+    "serve_tip": "Serve it just a little cool: about 20 minutes in the fridge before you pour.",
+    "talking_point": "The label says it’s made in a solar-powered winery in California’s Anderson Valley, by the family behind Duckhorn.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops"
+    ],
+    "label_image_path": "/bottles/goldeneye-pinot-noir.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "story-syrah",
+    "name": "Bailey Vineyard Syrah",
+    "producer": "Story Winery",
+    "vintage": 2020,
+    "type": "red",
+    "price": 35,
+    "body": "full",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "high",
+    "fruit_character": "jammy",
+    "fruit_notes": [
+      "dark-fruit",
+      "blue-fruit"
+    ],
+    "flower_notes": [
+      "purple-flowers"
+    ],
+    "extras": [
+      "earthy",
+      "smoke"
+    ],
+    "pairings": [
+      "BBQ ribs",
+      "Grilled sausages",
+      "Hard cheese"
+    ],
+    "occasions": [
+      "dinner-party"
+    ],
+    "serve_tip": "Pour it a little before dinner so it can open up, and serve it with something rich.",
+    "talking_point": "Part of it is made in a qvevri (say “KWEV-ree”): a big clay pot buried in the ground, the way wine has been made in Georgia, the country, for about 8,000 years.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Wine shops",
+      "Specialty stores"
+    ],
+    "label_image_path": "/bottles/story-syrah.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "clos-du-val-cabernet-franc",
+    "name": "Estate Grown Cabernet Franc",
+    "producer": "Clos du Val",
+    "vintage": 2022,
+    "type": "red",
+    "price": 75,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "medium",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "red-berry",
+      "green"
+    ],
+    "flower_notes": [
+      "purple-flowers"
+    ],
+    "extras": [
+      "earthy",
+      "baking-spice"
+    ],
+    "pairings": [
+      "Roast lamb",
+      "Pasta with tomato sauce",
+      "Hard cheese"
+    ],
+    "occasions": [
+      "dinner-party",
+      "gift"
+    ],
+    "serve_tip": "Open it 20 minutes before you pour, and serve it just under room temperature.",
+    "talking_point": "The wine is named for the swallows that nest at the estate each spring (“hirondelles” in French). The front of the label is just a quiet drawing.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Wine shops",
+      "Specialty stores"
+    ],
+    "label_image_path": "/bottles/clos-du-val-cabernet-franc.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "beachaven-founders-rose",
+    "name": "Founders Rosé",
+    "producer": "Beachaven Vineyards & Winery",
+    "vintage": null,
+    "type": "rosé",
+    "price": 16,
+    "body": "light",
+    "sweetness": "off-dry",
+    "acidity": "medium",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "red-berry"
+    ],
+    "flower_notes": [
+      "roses"
+    ],
+    "extras": [],
+    "pairings": [
+      "Cheese and crackers",
+      "Spicy takeout",
+      "Salad"
+    ],
+    "occasions": [
+      "weeknight",
+      "date-night",
+      "gift"
+    ],
+    "serve_tip": "Serve it cold, straight from the fridge.",
+    "talking_point": "Every grape in it was grown in Tennessee, and the label shows the two founders the wine honors.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "The winery"
+    ],
+    "label_image_path": "/bottles/beachaven-founders-rose.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "migration-chardonnay",
+    "name": "Keefer Ranch Chardonnay",
+    "producer": "Migration",
+    "vintage": 2023,
+    "type": "white",
+    "price": 45,
+    "body": "full",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "stone-fruit",
+      "apple-pear",
+      "citrus"
+    ],
+    "flower_notes": [],
+    "extras": [
+      "toast",
+      "vanilla"
+    ],
+    "pairings": [
+      "Roast chicken",
+      "Creamy pasta",
+      "Lobster"
+    ],
+    "occasions": [
+      "dinner-party",
+      "date-night",
+      "gift"
+    ],
+    "serve_tip": "Chill it, then leave it out for about 10 minutes before you pour so the flavors come through.",
+    "talking_point": "The back label mentions peach, Fuji apple and citrus, so you can taste along and see if you find them.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Specialty stores"
+    ],
+    "label_image_path": "/bottles/migration-chardonnay.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "duckhorn-sauvignon-blanc",
+    "name": "North Coast Sauvignon Blanc",
+    "producer": "Duckhorn Vineyards",
+    "vintage": 2025,
+    "type": "white",
+    "price": 25,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "citrus",
+      "green",
+      "tropical"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [],
+    "pairings": [
+      "Salad",
+      "Seafood",
+      "Goat cheese"
+    ],
+    "occasions": [
+      "weeknight",
+      "date-night",
+      "dinner-party"
+    ],
+    "serve_tip": "Serve it well chilled, about 2 hours in the fridge.",
+    "talking_point": "This is a bottle made for Duckhorn’s 50th anniversary, and it says so on the label.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": "/bottles/duckhorn-sauvignon-blanc.jpg",
+    "is_placeholder": false
+  },
+  {
+    "id": "dr-loosen-blue-slate-riesling",
+    "name": "Blue Slate Riesling Kabinett",
+    "producer": "Dr. Loosen",
+    "vintage": 2025,
+    "type": "white",
+    "price": 20,
+    "body": "light",
+    "sweetness": "off-dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "citrus",
+      "apple-pear",
+      "stone-fruit"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [],
+    "pairings": [
+      "Spicy takeout",
+      "Thai food",
+      "Sushi"
+    ],
+    "occasions": [
+      "weeknight",
+      "date-night"
+    ],
+    "serve_tip": "Chill it well. The cold keeps the sweetness in balance with the zip.",
+    "talking_point": "It’s only 8% alcohol, much lighter than most wines, and it comes from steep blue slate hillsides in Germany’s Mosel valley.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": "/bottles/dr-loosen-blue-slate-riesling.jpg",
+    "is_placeholder": false
+  }
+]

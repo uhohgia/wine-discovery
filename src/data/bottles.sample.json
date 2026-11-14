@@ -1,0 +1,392 @@
+[
+  {
+    "id": "sample-red-1",
+    "name": "Sample Red 1",
+    "producer": "Placeholder Cellars",
+    "vintage": 2022,
+    "type": "red",
+    "price": 14,
+    "body": "light",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "red-berry"
+    ],
+    "flower_notes": [
+      "roses"
+    ],
+    "extras": [],
+    "pairings": [
+      "Pizza",
+      "Roast chicken",
+      "Burgers"
+    ],
+    "occasions": [
+      "weeknight",
+      "dinner-party"
+    ],
+    "serve_tip": "Pop it in the fridge for 20 minutes first. Light reds taste best a little cool.",
+    "talking_point": "Light and fruity, the kind of red that doesn't ask you to think too hard.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Grocery stores",
+      "Wine shops"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-red-2",
+    "name": "Sample Red 2",
+    "producer": "Placeholder Cellars",
+    "vintage": 2020,
+    "type": "red",
+    "price": 22,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "medium",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "dark-fruit",
+      "red-berry"
+    ],
+    "flower_notes": [],
+    "extras": [
+      "baking-spice"
+    ],
+    "pairings": [
+      "Pasta with tomato sauce",
+      "Grilled sausages",
+      "Hard cheese"
+    ],
+    "occasions": [
+      "dinner-party",
+      "weeknight"
+    ],
+    "serve_tip": "Open it 15 minutes before you pour. It softens as it meets the air.",
+    "talking_point": "A friendly all-rounder: not too light, not too heavy, easy next to most dinners.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-red-3",
+    "name": "Sample Red 3",
+    "producer": "Placeholder Cellars",
+    "vintage": 2019,
+    "type": "red",
+    "price": 38,
+    "body": "full",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "high",
+    "fruit_character": "jammy",
+    "fruit_notes": [
+      "dark-fruit",
+      "blue-fruit"
+    ],
+    "flower_notes": [
+      "purple-flowers"
+    ],
+    "extras": [
+      "vanilla",
+      "baking-spice",
+      "smoke"
+    ],
+    "pairings": [
+      "Steak",
+      "BBQ ribs",
+      "Aged cheddar"
+    ],
+    "occasions": [
+      "dinner-party",
+      "gift"
+    ],
+    "serve_tip": "Pour it a little before dinner so it can open up, and serve with something rich.",
+    "talking_point": "Big and bold, with a dry, grippy feel like strong black tea. Great with grilled meat.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Wine shops",
+      "Specialty stores"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-red-4",
+    "name": "Sample Red 4",
+    "producer": "Placeholder Cellars",
+    "vintage": 2021,
+    "type": "red",
+    "price": 12,
+    "body": "medium",
+    "sweetness": "off-dry",
+    "acidity": "soft",
+    "tannin": "low",
+    "fruit_character": "jammy",
+    "fruit_notes": [
+      "dark-fruit",
+      "red-berry"
+    ],
+    "flower_notes": [],
+    "extras": [
+      "vanilla"
+    ],
+    "pairings": [
+      "Burgers",
+      "BBQ chicken",
+      "Mild takeout"
+    ],
+    "occasions": [
+      "weeknight",
+      "gift"
+    ],
+    "serve_tip": "Serve it slightly cool. Off-dry reds can taste heavy when warm.",
+    "talking_point": "Soft and a touch sweet, with ripe fruit. A good one for people who don't like dry wine.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Grocery stores"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-white-1",
+    "name": "Sample White 1",
+    "producer": "Placeholder Cellars",
+    "vintage": 2023,
+    "type": "white",
+    "price": 13,
+    "body": "light",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "citrus",
+      "green"
+    ],
+    "flower_notes": [],
+    "extras": [],
+    "pairings": [
+      "Salad",
+      "Seafood",
+      "Goat cheese"
+    ],
+    "occasions": [
+      "weeknight",
+      "date-night"
+    ],
+    "serve_tip": "Serve it well chilled, about 2 hours in the fridge.",
+    "talking_point": "Crisp and zippy, like lemonade without the sugar. Very refreshing.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Grocery stores",
+      "Wine shops"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-white-2",
+    "name": "Sample White 2",
+    "producer": "Placeholder Cellars",
+    "vintage": 2022,
+    "type": "white",
+    "price": 16,
+    "body": "medium",
+    "sweetness": "off-dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "stone-fruit",
+      "tropical"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [],
+    "pairings": [
+      "Spicy takeout",
+      "Thai food",
+      "Sushi"
+    ],
+    "occasions": [
+      "weeknight",
+      "date-night"
+    ],
+    "serve_tip": "Chill it well. The cool temperature keeps the sweetness in balance with the zip.",
+    "talking_point": "A little sweet and a little zippy, which is why it calms down spicy food so well.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-white-3",
+    "name": "Sample White 3",
+    "producer": "Placeholder Cellars",
+    "vintage": 2020,
+    "type": "white",
+    "price": 28,
+    "body": "full",
+    "sweetness": "dry",
+    "acidity": "soft",
+    "tannin": "low",
+    "fruit_character": "dried",
+    "fruit_notes": [
+      "apple-pear",
+      "stone-fruit"
+    ],
+    "flower_notes": [],
+    "extras": [
+      "toast",
+      "vanilla"
+    ],
+    "pairings": [
+      "Roast chicken",
+      "Creamy pasta",
+      "Lobster"
+    ],
+    "occasions": [
+      "dinner-party",
+      "date-night"
+    ],
+    "serve_tip": "Serve it only lightly chilled. Too cold and you'll miss the creamy flavors.",
+    "talking_point": "Rich and round, with a buttery, toasty feel. More cozy than crisp.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Wine shops",
+      "Specialty stores"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-rose-1",
+    "name": "Sample Rosé 1",
+    "producer": "Placeholder Cellars",
+    "vintage": 2023,
+    "type": "rosé",
+    "price": 16,
+    "body": "light",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "red-berry",
+      "citrus"
+    ],
+    "flower_notes": [
+      "roses"
+    ],
+    "extras": [],
+    "pairings": [
+      "Salad",
+      "Grilled shrimp",
+      "Cheese and crackers"
+    ],
+    "occasions": [
+      "date-night",
+      "weeknight"
+    ],
+    "serve_tip": "Serve it ice cold. It's made for warm evenings.",
+    "talking_point": "Pale, dry and strawberry-fresh. A rosé that doesn't taste like candy.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Grocery stores",
+      "Wine shops"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-bubbly-1",
+    "name": "Sample Bubbly 1",
+    "producer": "Placeholder Cellars",
+    "vintage": null,
+    "type": "sparkling",
+    "price": 24,
+    "body": "light",
+    "sweetness": "dry",
+    "acidity": "zippy",
+    "tannin": "low",
+    "fruit_character": "fresh",
+    "fruit_notes": [
+      "apple-pear",
+      "citrus"
+    ],
+    "flower_notes": [
+      "white-flowers"
+    ],
+    "extras": [
+      "toast"
+    ],
+    "pairings": [
+      "Salty snacks",
+      "Fried chicken",
+      "Cheese and cured meats"
+    ],
+    "occasions": [
+      "gift",
+      "date-night",
+      "dinner-party"
+    ],
+    "serve_tip": "Chill it for at least 3 hours and open it gently. Hold the cork and twist the bottle.",
+    "talking_point": "Lively bubbles and green-apple freshness. Good with salty food, and good just because.",
+    "easy_to_like": true,
+    "usually_sold_at": [
+      "Wine shops",
+      "Grocery stores"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  },
+  {
+    "id": "sample-orange-1",
+    "name": "Sample Orange 1",
+    "producer": "Placeholder Cellars",
+    "vintage": 2021,
+    "type": "orange",
+    "price": 32,
+    "body": "medium",
+    "sweetness": "dry",
+    "acidity": "medium",
+    "tannin": "medium",
+    "fruit_character": "dried",
+    "fruit_notes": [
+      "stone-fruit",
+      "citrus"
+    ],
+    "flower_notes": [],
+    "extras": [
+      "earthy"
+    ],
+    "pairings": [
+      "Roasted vegetables",
+      "Hard cheese",
+      "Spiced dishes"
+    ],
+    "occasions": [
+      "dinner-party"
+    ],
+    "serve_tip": "Serve it a little cooler than room temperature, around 55°F.",
+    "talking_point": "A white wine made like a red, with a gentle grip and a nutty, tea-like taste. Great conversation starter.",
+    "easy_to_like": false,
+    "usually_sold_at": [
+      "Specialty stores"
+    ],
+    "label_image_path": null,
+    "is_placeholder": true
+  }
+]

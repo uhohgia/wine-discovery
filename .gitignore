@@ -1,0 +1,17 @@
+node_modules
+dist
+
+dev-dist
+.env
+.env.local
+playwright-report
+test-results
+.DS_Store
+*.log
+
+# Local-only material (not for the public repo)
+_archive/
+bottle-photos/
+.claude/
+.env.*.local
+coverage
