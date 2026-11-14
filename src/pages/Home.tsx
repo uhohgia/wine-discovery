@@ -37,7 +37,7 @@ export default function Home() {
           <TileGrid label="Meals">
             {MEAL_RULES.map((r) => (
               <li key={r.id} className="contents">
-                <Tile to={`/eat/${r.id}`} title={r.label} hint={r.hint} emoji={r.emoji} />
+                <Tile to={`/eat/${r.id}`} title={r.label} hint={r.hint} emoji={r.emoji} layout="inline" />
               </li>
             ))}
           </TileGrid>
